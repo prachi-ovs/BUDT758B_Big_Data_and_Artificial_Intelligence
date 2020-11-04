@@ -24,4 +24,4 @@ Steps in the project:
     3. Traditional Machine Learning Model: Random Forest using sklearn
     4. Fully connected feedforward Neural Network using PyTorch 
        - Using unigram and bigram TF.IDF feature set
-       - Using Droptout and ADAM to avoid overfitting
+       - Using Dropout and ADAM to avoid overfitting
