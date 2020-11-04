@@ -1,4 +1,4 @@
-## Handwritten digit recognition using CNN
+## Handwritten digit recognition using CNN - MNIST Dataset
 
 The libraries imported include:
 
